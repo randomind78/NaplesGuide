@@ -16,11 +16,6 @@
             android:layout_width="@dimen/image"
             android:layout_height="@dimen/image"
             android:scaleType="centerCrop" />
-
-        <ImageView
-            android:layout_width="@dimen/image"
-            android:layout_height="@dimen/image"
-            android:src="@drawable/circle" />
     </FrameLayout>
 
     <LinearLayout
